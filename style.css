@@ -32,7 +32,7 @@ body {
   box-sizing: border-box;
   max-width: 1162px; /* Add this line */
   margin: 0 auto; /* Add this line to center the menu */
-  color: #444444;
+  color: #FFFAF0;
   
 }
 .menu ul {
@@ -54,7 +54,7 @@ body {
   background-image: linear-gradient(to right, #ccc9c6, #f0ebeb);
   background-clip: text;
   -webkit-background-clip: text;
-  color: #444444;
+  color: #FFFAF0;
   position: relative;
   font-weight: 400;
 }
